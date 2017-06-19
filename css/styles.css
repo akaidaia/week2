@@ -1,0 +1,55 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	background-color: gray;
+	margin: 0;
+}
+
+header {
+	background-color: white;
+}
+
+main {
+	margin-top: 10px;
+}
+
+.wrapper {
+	width: 960px;
+}
+
+.left{
+	float: left;
+	width: 300px;
+	margin-left: 20px;
+}
+
+.profile{
+	background-color: red;
+	float: left;
+	width: 300px;
+	margin-left: 20px;
+}
+
+.trends{
+	background-color: yellow;
+	float: left;
+	width: 300px;
+	margin-left: 20px;
+}
+
+.middle{
+	
+	background-color: blue;
+	float: left;
+	width: 300px;
+	margin-left: 20px;
+}
+
+.right{
+	
+	background-color: green;
+	float: right;
+	width: 300px;
+}
